@@ -1,4 +1,4 @@
-# vicharakfpga
+
 # 19-Bit Custom CPU Design
 
 This repository contains the Verilog implementation of a custom 19-bit CPU, designed to support a specialized instruction set for specific applications like signal processing and cryptography. The project consists of a CPU module and its corresponding testbench for validation.
